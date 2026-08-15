@@ -1,5 +1,4 @@
 # Ignore Word docs everywhere by default
 *.docx
-# But keep the BDM notes tracked
-!bdm/*.docx
+# Keep the BDM PDFs tracked but not the docx files
 !bdm/*.pdf
